@@ -4,7 +4,7 @@ import { ShowcaseImage } from '@/types';
 
 export const heroData = {
   image: '/images/portfolio_image.webp',
-  title: 'Cal Poly CS Student → Builder',
+  title: 'Cal Poly CPE Student → Builder',
   description: `Building AI-powered tools while figuring out this whole startup thing.
 
 Currently deep in the trenches with RezumAI (my first real SaaS) and learning that coding is only 20% of the battle.

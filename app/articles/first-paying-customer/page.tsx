@@ -26,7 +26,7 @@ export default function FirstPayingCustomerArticle() {
             data structures assignments. Spoiler: my first customer paid while I was in a compiler design class.
           </p>
           <div style={{ fontSize: '0.875rem', opacity: 0.6 }}>
-            January 17, 2025 · 12 min read
+            August 17, 2025 · 12 min read
           </div>
         </header>
 
@@ -38,7 +38,7 @@ export default function FirstPayingCustomerArticle() {
             <h2 className="writing-header">The Dorm Room Revelation</h2>
 
             <p style={{ marginBottom: '20px' }}>
-              October 2023, 11:47 PM. My roommate Jake slammed his laptop shut hard enough to make me
+              October 2024, 11:47 PM. My roommate Jake slammed his laptop shut hard enough to make me
               look up from my systems programming homework.
             </p>
 
@@ -96,7 +96,7 @@ export default function FirstPayingCustomerArticle() {
                 No user accounts (localStorage for everything)
               </li>
               <li style={{ opacity: 0.9 }}>
-                UI that looked like a CS student made it (because one did)
+                UI that looked like a CPE student made it (because one did)
               </li>
             </ul>
 
@@ -149,7 +149,7 @@ export default function FirstPayingCustomerArticle() {
             <div className="writing-card" style={{ marginBottom: '20px' }}>
               <h4 style={{ fontWeight: 600, marginBottom: '12px' }}>Week 1-2: The Friends Phase</h4>
               <p className="article-description">
-                10 users, all from my CS classes. Main feedback: &quot;It works but looks like shit.&quot;
+                10 users, all from my CPE classes. Main feedback: &quot;It works but looks like shit.&quot;
                 Fair. Also: &quot;Can you add more templates?&quot; and &quot;The PDF breaks my name if
                 it has an accent.&quot;
               </p>
@@ -286,7 +286,7 @@ export default function FirstPayingCustomerArticle() {
 
             <div className="writing-card" style={{ backgroundColor: '#f0f9ff', padding: '32px', textAlign: 'center' }}>
               <p style={{ fontSize: '1.5rem', fontWeight: 600, marginBottom: '8px' }}>
-                💰 You just got paid $29.00
+                💰 You just got paid $19.00
               </p>
               <p className="article-description">
                 Sarah M. purchased RezumAI Pro Monthly
@@ -313,7 +313,7 @@ export default function FirstPayingCustomerArticle() {
                 for that.
               </p>
               <p style={{ fontStyle: 'italic' }}>
-                Also, you should charge more. $29 is too cheap for something that actually works.&quot;
+                Also, you should charge more. $19 is too cheap for something that actually works.&quot;
               </p>
             </div>
 
@@ -335,9 +335,6 @@ export default function FirstPayingCustomerArticle() {
             <ul style={{ paddingLeft: '24px', listStyle: 'disc', marginBottom: '20px' }}>
               <li style={{ marginBottom: '8px', opacity: 0.9 }}>
                 12 more Pro subscriptions ($348 MRR)
-              </li>
-              <li style={{ marginBottom: '8px', opacity: 0.9 }}>
-                3 Lifetime purchases ($447 one-time)
               </li>
               <li style={{ marginBottom: '8px', opacity: 0.9 }}>
                 200+ new free users
@@ -458,21 +455,13 @@ export default function FirstPayingCustomerArticle() {
               your product helped them land their dream job, the exhaustion feels worth it.
             </p>
 
-            <div className="writing-card">
-              <h4 style={{ fontWeight: 600, marginBottom: '12px' }}>The GPA Impact:</h4>
-              <p className="article-description">
-                Went from 4.0 to 3.8. Best trade I ever made. I learned more about software engineering
-                from shipping RezumAI than from any class. Real users don&apos;t care about your
-                Big-O notation if your app crashes.
-              </p>
-            </div>
           </section>
 
           <section className="writing-section">
             <h2 className="writing-header">Where We Are Now</h2>
 
             <p style={{ marginBottom: '20px' }}>
-              As I write this (January 2025), RezumAI has:
+              As I write this (August 2025), RezumAI has:
             </p>
 
             <ul style={{ paddingLeft: '24px', listStyle: 'disc', marginBottom: '20px' }}>
@@ -577,7 +566,7 @@ export default function FirstPayingCustomerArticle() {
             </p>
 
             <p style={{ marginBottom: '20px' }}>
-              What I do know is this: a year ago, I was just another CS student struggling through
+              What I do know is this: a year ago, I was just another CPE student struggling through
               algorithms. Today, I run a real product with real customers. If I can do it while
               taking 18 units and maintaining (most of) my sanity, so can you.
             </p>
@@ -607,18 +596,8 @@ export default function FirstPayingCustomerArticle() {
             </div>
           </section>
 
-          <section className="writing-section">
-            <div className="writing-card" style={{ backgroundColor: '#f0f9ff', textAlign: 'center', padding: '32px' }}>
-              <p style={{ fontSize: '1.125rem', marginBottom: '16px' }}>
-                <strong>Update: 2 hours after publishing this...</strong>
-              </p>
-              <p className="article-description">
-                Sarah just referred 3 friends who all bought Lifetime. The compound effects of
-                treating your first customers well cannot be overstated. Sarah, if you&apos;re
-                reading this, drinks are on me next time you&apos;re in SLO. 🍺
-              </p>
-            </div>
-          </section>
+          <div className="divider" />
+
         </div>
       </div>
     </article>
