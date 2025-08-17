@@ -30,6 +30,11 @@ const Article: React.FC<ArticleProps> = ({ title, description, href }) => {
 const WritingSection: React.FC = () => {
   const articles = [
     {
+      title: "From 0 to First Paying Customer: How I Validated RezumAI While Taking 18 Units",
+      description: "The messy, honest story of building a SaaS product between thermodynamics lectures and data structures assignments. Spoiler: my first customer paid while I was in a compiler design class.",
+      href: "/articles/first-paying-customer"
+    },
+    {
       title: "How to Write a Resume That Actually Beats ATS Systems (The Complete 2025 Guide)",
       description: "The definitive guide to crafting ATS-optimized resumes that land interviews. Learn the exact formulas, AI strategies, and insider tips that helped our users achieve an 89% ATS pass rate.",
       href: "/articles/resume-writing-guide"
