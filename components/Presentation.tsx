@@ -15,46 +15,47 @@ export default function Presentation() {
     {
       title: "Current Focus",
       points: [
-        "Building ResumeAI - AI-powered resume optimization SaaS",
-        "Full-stack development with Next.js, TypeScript, and Firebase",
-        "Integrating OpenAI APIs for intelligent content generation",
-        "Learning that building != selling"
+        "Building RezumAI - Comprehensive AI-powered career platform",
+        "Full-stack SaaS with real paying users and 89% ATS pass rate",
+        "Integrating Google Gemini for advanced content generation",
+        "Balancing Cal Poly Computer Engineering coursework with startup growth"
       ]
     },
     {
       title: "Technical Stack",
       points: [
         "Frontend: React, Next.js 14, TypeScript, Tailwind CSS",
-        "Backend: Node.js, Firebase (Auth, Firestore, Functions)",
-        "AI/ML: OpenAI GPT-4, Embeddings, Vector search",
-        "DevOps: Vercel, GitHub Actions, Docker"
+        "Backend: Firebase (Auth, Firestore, Functions), Node.js",
+        "AI/ML: Google Gemini API, Advanced prompt engineering, NLP",
+        "Infrastructure: Vercel deployment, Real-time ATS scoring engine"
+      ]
+    },
+    {
+      title: "RezumAI Feature Suite",
+      points: [
+        "AI Resume Builder with 1100+ professional templates",
+        "Real-time ATS scoring with visual feedback (0-100 scale)",
+        "AI keyword targeting extracting job-specific requirements",
+        "Expert review service with human professionals",
+        "2-tier pricing: Free, Pro ($19/mo)"
       ]
     },
     {
       title: "What I'm Looking For",
       points: [
-        "Software engineering internships (Summer 2025)",
-        "Part-time developer roles during school",
-        "Mentorship from experienced engineers",
-        "Teams solving real problems with modern tech"
+        "Software engineering internships (Summer 2026)",
+        "Part-time developer roles compatible with studies",
+        "Advisors with B2B SaaS or recruiting industry experience",
+        "Opportunities to learn from senior engineers while contributing"
       ]
     },
     {
-      title: "Recent Projects",
+      title: "Achievements & Metrics",
       points: [
-        "ResumeAI: Full-stack SaaS with subscription billing",
-        "Portfolio site: Minimalist design with Next.js",
-        "Course projects: Data structures, algorithms, systems programming",
-        "Side experiments: Web scraping, automation tools"
-      ]
-    },
-    {
-      title: "Learning Journey",
-      points: [
-        "Self-taught web development alongside CS degree",
-        "Progressed from HTML/CSS to full-stack in 12 months",
-        "Built production app handling real users and payments",
-        "Currently diving deeper into system design and scalability"
+        "Users achieving 3x more keywords identified vs manual analysis",
+        "2-second analysis time for comprehensive keyword extraction",
+        "23+ metrics analyzed for resume strength evaluation",
+        "Growing through organic Reddit engagement and SEO"
       ]
     }
   ];

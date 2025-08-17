@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import { Allura } from 'next/font/google';
 
 const dancingScript = Allura({

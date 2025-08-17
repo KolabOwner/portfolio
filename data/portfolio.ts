@@ -7,7 +7,7 @@ export const heroData = {
   title: 'Cal Poly CS Student → Builder',
   description: `Building AI-powered tools while figuring out this whole startup thing.
 
-Currently deep in the trenches with ResumeAI (my first real SaaS) and learning that coding is only 20% of the battle.
+Currently deep in the trenches with RezumAI (my first real SaaS) and learning that coding is only 20% of the battle.
 
 Open to internships, part-time roles, and anyone who wants to tell me why my startup isn't working.`,
   name: 'Ashton Gage',
@@ -21,7 +21,7 @@ Open to internships, part-time roles, and anyone who wants to tell me why my sta
 export const aboutData = {
   title: 'About',
   paragraphs: [
-    `Computer Engineering at Cal Poly. Built a full-stack AI SaaS from scratch using Next.js, TypeScript, Firebase, and OpenAI APIs. Currently learning that knowing how to build something and knowing what to build are very different skills.`,
+    `Computer Engineering at Cal Poly. Built a full-stack AI SaaS from scratch using Next.js, TypeScript, Firebase, and Generative AI APIs (OpenAI, Gemini, Grok). Currently learning that knowing how to build something and knowing what to build are very different skills.`,
 
     `Spent the last year going deep on modern web development and AI integration. Transformed from someone who could write code for class to someone who can architect and ship production applications. My resume optimizer handles real-time AI processing, user auth, payment systems, and scalable deployment.`,
 
