@@ -1,3 +1,5 @@
+// components/WritingSection.tsx
+
 import React from 'react';
 
 interface ArticleProps {
@@ -28,29 +30,19 @@ const Article: React.FC<ArticleProps> = ({ title, description, href }) => {
 const WritingSection: React.FC = () => {
   const articles = [
     {
-      title: "How I Turned Reddit Into a Win-Win Growth Engine",
-      description: "The story of our journey from 0 to 50,000 users.",
-      href: "/articles/reddit-growth-engine"
+      title: "How to Write a Resume That Actually Beats ATS Systems (The Complete 2025 Guide)",
+      description: "The definitive guide to crafting ATS-optimized resumes that land interviews. Learn the exact formulas, AI strategies, and insider tips that helped our users achieve an 89% ATS pass rate.",
+      href: "/articles/resume-writing-guide"
     },
     {
-      title: "0 to 50,000 Users: A Candid Look Into Creative Growth",
-      description: "The story of our journey from 0 to 50,000 users.",
-      href: "/articles/creative-growth"
+      title: "Revolutionizing Resume Optimization: How Our AI-Powered Keyword Analysis Beats ATS Filters",
+      description: "Discover how our proprietary keyword analysis technology transforms job descriptions into actionable insights, helping candidates land interviews at companies that rely on automated screening systems.",
+      href: "/articles/ai-keyword-analysis"
     },
     {
-      title: "Building A Global Startup in South Korea",
-      description: "A look inside building a saas startup that is benefited from the Korean startup ecosystem.",
-      href: "/articles/global-startup-korea"
-    },
-    {
-      title: "First Rezi Pitch Deck - 2016",
-      description: "The first Rezi pitch deck created in August 2016 for the K Startup Grand Challenge.",
-      href: "/articles/first-pitch-deck-2016"
-    },
-    {
-      title: "On Startup Branding",
-      description: "Exceptional branding was critical in the early days of Rezi. Here are thoughts on the topic aimed at early-stage startup founders",
-      href: "/articles/startup-branding"
+      title: "The Pitch Deck I'm Using to Launch RezumAI",
+      description: "Building a comprehensive AI career platform as a Cal Poly student. Here's my pitch deck and what I've learned building my first SaaS.",
+      href: "/articles/first-rezumai-pitch"
     }
   ];
 

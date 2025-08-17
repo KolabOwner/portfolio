@@ -1,3 +1,5 @@
+// app/page.tsx
+
 import HeroSection from '@/components/HeroSection';
 import AboutSection from '@/components/AboutSection';
 import WritingSection from '@/components/WritingSection';

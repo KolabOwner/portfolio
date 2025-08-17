@@ -1,3 +1,5 @@
+// data/portfolio.ts
+
 import { ShowcaseImage } from '@/types';
 
 export const heroData = {
